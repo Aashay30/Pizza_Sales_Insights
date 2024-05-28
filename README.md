@@ -72,3 +72,9 @@ MS-Excel, MS-Power BI
 * Through analytics, both descriptive and predictive, sales are identified, and appropriate measures are taken. 
 
 * The company can also monitor its own ability to deliver items on time to customers or eliminate stock-outs by better inventory planning
+
+# Screenshot of Dashboard :-
+
+![Home_Page](https://github.com/Aashay30/Pizza_Sales_Insights/blob/main/Home%20Page.png)
+
+![Best_And_Worst_Sellers_Page](https://github.com/Aashay30/Pizza_Sales_Insights/blob/main/Best%20and%20Worst%20Sellers%20Page.png)
