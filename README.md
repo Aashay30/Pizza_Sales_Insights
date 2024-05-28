@@ -50,6 +50,21 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 
 7. <ins>*Bottom 5 Worst Sellers by Revenue, Total Quantity, and Total Orders*</ins> - Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, and Total Orders. This chart will enable us to identify underperforming less popular pizza options.
 
+# Dataset 📀
+[Pizza_Sales_Dataset](https://github.com/Aashay30/Pizza_Sales_Insights/tree/main/Dataset)
+
+# Technology 🤖
+Business Intelligence
+
+# Domain 🛒
+Retail & Sales
+
+# Tools 🛠
+MS-Excel, MS-Power BI
+
+# Architecture ⚙
+![App Screenshot](https://user-images.githubusercontent.com/69301816/188277362-3fe42c14-97a2-437e-bb96-4d0c812d0136.JPG)
+
 # Results :-
 
 * By getting a better understanding of markets through sales analytics, the business can find opportunities to grow revenue. 
