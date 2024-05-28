@@ -2,6 +2,8 @@
 * Created by :-   Aashay Tamrakar
 * Tool used:-     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+📜[PDF Link of PowerBI Dashboard](https://github.com/Aashay30/Pizza_Sales_Insights/blob/main/Pizza%20Sales%20Report.pdf)
+
 # Description :- 
 
 * This is a Sales Insights Data Analytics Project.
